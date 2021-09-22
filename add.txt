@@ -1,0 +1,5 @@
+#!/bin/bash -x
+a=100
+b=200
+sum=$(($a+$b))
+echo $sum
